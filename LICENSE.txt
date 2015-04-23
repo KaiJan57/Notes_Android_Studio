@@ -1,0 +1,3 @@
+Do what you want to do, but:
+This project is under the Apache License, Version 2.0.
+I won't assume any responibility. Use on your own risk.

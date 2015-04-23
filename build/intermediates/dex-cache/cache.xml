@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Kai_Jan_57\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Kai_Jan_57\Documents\Apps\Moveable_Buttons_Android_Studio\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-a5516ca7796b6a3441e1479770ef1f2d0bb1b05c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kai_Jan_57\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Kai_Jan_57\Documents\Apps\Moveable_Buttons_Android_Studio\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3-a5516ca7796b6a3441e1479770ef1f2d0bb1b05c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kai_Jan_57\Documents\Apps\Moveable_Buttons_Android_Studio\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Kai_Jan_57\Documents\Apps\Moveable_Buttons_Android_Studio\app\build\intermediates\pre-dexed\debug\classes-ede2cc8fcda8c0d9be1821b12847eed893a609d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kai_Jan_57\Documents\Apps\Moveable_Buttons_Android_Studio\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Kai_Jan_57\Documents\Apps\Moveable_Buttons_Android_Studio\app\build\intermediates\pre-dexed\release\classes-ede2cc8fcda8c0d9be1821b12847eed893a609d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kai_Jan_57\Documents\Apps\Moveable_Buttons_Android_Studio\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Kai_Jan_57\Documents\Apps\Moveable_Buttons_Android_Studio\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-cc595c8f8706367ac679fb5153d68f9e51bbcbc2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kai_Jan_57\Documents\Apps\Moveable_Buttons_Android_Studio\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Kai_Jan_57\Documents\Apps\Moveable_Buttons_Android_Studio\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3-cc595c8f8706367ac679fb5153d68f9e51bbcbc2.jar" />
+    </item>
+
+</items>

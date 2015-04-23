@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Kai_Jan_57/Documents/Apps/Moveable_Buttons_Android_Studio/app/src/main/res/values-de/strings.xml -->
+    <eat-comment/>
+    <string name="abort">Abbrechen</string>
+    <string name="action_settings">Settings</string>
+    <string name="add">Hinzufügen</string>
+    <string name="app_name">Notizen</string>
+    <string name="del_all">Alle Notizen löschen</string>
+    <string name="delete">Löschen</string>
+    <string name="delete_file">Datei löschen?</string>
+    <string name="deleted">Löschen erfolgreich.</string>
+    <string name="deleted_unsuccessfully">Datei wurde nicht gelöscht.</string>
+    <string name="edit_note">Notiz ändern</string>
+    <string name="entered_question">Hast du einen Dateinamen eingegeben?</string>
+    <string name="help">Hilfe</string>
+    <string name="hint_edit">Dateiname</string>
+    <string name="hint_text">Text</string>
+    <string name="load">Lesen erfolgreich.</string>
+    <string name="malformed">Ausgewählte Datei hat ein ungültiges Format.</string>
+    <string name="new_file">Neue Datei erstellen</string>
+    <string name="new_note">Neue Notiz hinzufügen</string>
+    <string name="no">Nein</string>
+    <string name="no_content">Datei enthält keine Notiz.</string>
+    <string name="nothing_to_add">Es gibt nichts zu speichern. Bitte füge Notizen hinzu.</string>
+    <string name="nothing_to_delete">Es gibt keine Notitz, die gelöscht werden kann.</string>
+    <string name="ok">OK</string>
+    <string name="open">Öffnen</string>
+    <string name="open_note">Notizdatei [.note] öffnen</string>
+    <string name="other_version">Diese Datei wurde von einer anderen Version des Programms erstellt.</string>
+    <string name="prompt_delete_all">Möchtest du wirklich alle Notizen löschen?</string>
+    <string name="prompt_text">Text für die neue Notiz:</string>
+    <string name="question_delete">Möchtest du diese Notiz löschen?</string>
+    <string name="save">Speichern</string>
+    <string name="save_prompt">Notizen speichern</string>
+    <string name="save_question">Möchtest du die offene Datei speichern?</string>
+    <string name="save_remember">Vergiss nicht, zu speichern...</string>
+    <string name="saved">Speichern erfolgreich.</string>
+    <string name="select_color">Farbe:</string>
+    <string name="select_tip">Um eine Datei auszuwählen, halte ein Item in der liste gedrückt.</string>
+    <string name="selected_color">Ausgewählte Farbe:</string>
+    <string name="str1about">Idee: Kai_Jan_57</string>
+    <string name="str2about">Programmierung: Kai_Jan_57</string>
+    <string name="str5about">Bei [An]fragen und Bugs schreibt bitte in die Kommentare. Schreibt möglichst genau bei Bugs! Ich wünsche euch viel Spaß mit der App :-)</string>
+    <string name="title_activity_about">Über...</string>
+    <string name="tut_press_plus_btn">Datei löschen: Öffne sie, lösche alle Notizen, und speichere die Datei. \n\n Einen großen Dank an all die Leute, die Open-Source projekte veröffentlichen.\nGenutzte Open-Source Projekte: ColorPickerView + ColorPanelView GitHub: https://github.com/yixia/ZI, FileSaveFragment + FileSelectFragment. CodeProject: http://www.codeproject.com/Articles/704643/An-Android-File-Save-Dialogue</string>
+    <string name="yes">Ja</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/aboutbox"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+
+</FrameLayout>
+<!-- From: file:/C:/Users/Kai_Jan_57/Documents/Apps/Moveable_Buttons_Android_Studio/app/src/main/res/layout/activity_about.xml -->
