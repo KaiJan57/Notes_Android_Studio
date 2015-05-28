@@ -35,4 +35,4 @@
         android:id="@+id/action_about"
         android:title="@string/title_activity_about"></item>
 </menu>
-<!-- From: file:/C:/Users/Kai_Jan_57/Documents/Apps/Moveable_Buttons_Android_Studio/app/src/main/res/menu/main.xml -->
+<!-- From: file:/C:/Users/Kai_Jan_57/Documents/Apps/Notes_Android_Studio/app/src/main/res/menu/main.xml -->
